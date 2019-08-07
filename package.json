@@ -4,15 +4,15 @@
   "private": true,
   "dependencies": {
     "classnames": "^2.2.6",
-    "firebase": "^5.4.1",
-    "react": "^16.4.2",
-    "react-dom": "^16.4.2",
-    "react-redux": "^5.0.7",
-    "react-redux-firebase": "^2.1.8",
+    "firebase": "^5.11.1",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^5.1.1",
+    "react-redux-firebase": "^2.3.0",
     "react-router-dom": "^4.3.1",
     "react-scripts": "1.1.5",
-    "redux": "^4.0.0",
-    "redux-auth-wrapper": "^2.0.3",
+    "redux": "^4.0.4",
+    "redux-auth-wrapper": "^2.1.0",
     "redux-firestore": "^0.5.8"
   },
   "scripts": {
